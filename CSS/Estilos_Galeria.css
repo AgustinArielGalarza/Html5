@@ -8,26 +8,26 @@ body{
   }
 }
 h1{
-  font: normal 2.4em Verdana, sans-serif;
+  font: normal 2.4em Arial, sans-serif;
   background:-webkit-linear-gradient(top, rgb(168,151,37), rgba(255,122,0,.59));
   width: 17%;
   border-radius: 10px;
-  margin: 10px auto;
-  padding: 15px;
-  color: rgb(142,235,86);
-  box-shadow: rgb(11, 4, 92) 5px 5px 10px;
-  text-shadow: rgb(0, 83, 130) 3px 3px 10px;
+  margin: 30px auto;
+  padding: 30px;
+  color: rgb(96,242,8);
+  box-shadow: rgb(48,34,217) 5px 5px 10px;
+  text-shadow: rgb(255,14,209) 3px 3px 10px;
 }
 h2{
-  font:bold 1.7em Verdana, sans-serif;
+  font:bold 1.7em Arial, sans-serif;
   margin: 0;
   padding: 5px 0 5px 0px;
-  color: rgba(117,109,11,.99);
+  color: rgba(238,43,202,1);
 
 }
 section{
   width: 91%;
-  border-top:1px dashed rgb(150,149,152);
+  border-top:1px dashed rgb(231,74,16);
   margin: 1px auto;
 }
 figure{
@@ -35,20 +35,20 @@ figure{
 }
 figure img{
   padding: 4px;
-  background: rgb(111, 106, 104);
+  background: rgb(211,8,252);
   border-radius: 20px;
   -webkit-transition:-webkit-transform 0.3s ease-in-out 0.1s;
 }
 figure img:hover{
   -webkit-transform:scale(1.2);
-  box-shadow: rgb(192, 193, 190) 5px 5px 10px;
+  box-shadow: rgb(31,230,224) 5px 5px 10px;
 
 }
 figcaption{
   font-family:Arial, sans-serif;
   font-size:1.3em;
   text-align: center;
-  margin-top: 5px;
+  margin-top: 30px;
   color:rgb(115,59,0);
 }
 
@@ -60,7 +60,7 @@ footer{
 footer p{
   font:14em Georgia "Times New Roman",Times, sans-serif;
   color:rgb(0,0,0);
-  margin: 10px 8px;
+  margin: 30px 8px;
 }
 a{
   padding: 5px 10px;
@@ -91,7 +91,7 @@ a:visited{
   font-family:Arial, sans-serif;
   font-size:2.8em;
   text-align: center;
-  margin-top: 25px;
-  padding-top: 25px;
+  margin-top: 50px;
+  padding-top: 50px;
   float: left;
 }
